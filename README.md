@@ -1,5 +1,5 @@
 # GIS Data Processing Infrastructure For the Docker
-You can use gdal library, OpenCV, Shapely, Pillow, Numpy, Pandas, and other tools  with docker
+You can use GDAL library, OpenCV, Shapely, Pillow, Numpy, Pandas, and other tools  with docker
 
 ## Installation
 
