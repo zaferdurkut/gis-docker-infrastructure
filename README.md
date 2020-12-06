@@ -4,7 +4,7 @@ You can use GDAL library, OpenCV, Shapely, Pillow, Numpy, Pandas, and other tool
 ## Installation
 
 ```
-https://github.com/zaferdurkut/gis-docker-infrastructure.git
+git clone https://github.com/zaferdurkut/gis-docker-infrastructure.git
 ```
 ```
 cd gis-docker-infrastructure
